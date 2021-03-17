@@ -9,7 +9,18 @@
         "React.js",
         "Express",
         "MongoDB",
-"Bootstrap", "HTTP", "APIS/RESTful APIs", "jQuery", "Node.js", "Express.js", "EJS Templating", "PostgreSQL", "Python", "Django", "Data Structures", "Algorithms" 
+        "Bootstrap", 
+        "HTTP", 
+        "APIS/RESTful APIs", 
+        "jQuery", 
+        "Node.js", 
+        "Express.js", 
+        "EJS Templating", 
+        "PostgreSQL", 
+        "Python", 
+        "Django", 
+        "Data Structures", 
+        "Algorithms" 
     ],
     "otherSkills": [
         "Dance",
