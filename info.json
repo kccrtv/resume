@@ -1,0 +1,19 @@
+{
+    "name": "Kim Cinco",
+    "website": "https://kimmy-codes.webflow.io/",
+    "linkedin": "https://www.linkedin.com/in/kimcinco/",
+    "github": "http://github.com/kccrtv/",
+    "email": "kimcincocreative@gmail.com",
+    "proficientTechnologies": [
+        "Javascript",
+        "React.js",
+        "Express",
+        "MongoDB",
+"Bootstrap", "HTTP", "APIS/RESTful APIs", "jQuery", "Node.js", "Express.js", "EJS Templating", "PostgreSQL", "Python", "Django", "Data Structures", "Algorithms" 
+    ],
+    "otherSkills": [
+        "Dance",
+        "Cooking",
+        "Eating"
+    ]
+}
