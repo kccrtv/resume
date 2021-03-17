@@ -5,3 +5,11 @@
 ## Let's connect!
 
 > [kimcincocreative@gmail.com](kimcincocreative@gmail.com)
+
+###
+
+In the command line, type:
+
+```
+aloha
+```
